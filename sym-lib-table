@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "INA381A3QDGSRQ1")(type "KiCad")(uri "${KICAD_3RD_PARTY}/INA381A3QDGSRQ1/INA381A3QDGSRQ1.kicad_sym")(options "")(descr ""))
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+)
