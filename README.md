@@ -70,3 +70,7 @@ Le **MotorShield Controller** est une carte d'actionneur conçue pour piloter de
 - **Description** : Jumper configurable pour définir les fonctionnalités d'entrée ou de sortie.  
 - **Caractéristiques** :
   - Évite les conflits d’assignation en définissant clairement les modes de fonctionnement.
+ 
+## Licence 
+
+![alt tag](https://github.com/axpaul/Avionic-Marsaut1/blob/main/Cc-by-nc-sa_icon.svg.png)
